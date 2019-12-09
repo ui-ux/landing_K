@@ -1,0 +1,25 @@
+{
+  "name": "tz_sergey",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uncss": "^1.0.6"
+  },
+  "description": "",
+  "dependencies": {
+    "@ng-select/ng-select": "^3.7.0",
+    "select2": "^4.0.12"
+  }
+}
